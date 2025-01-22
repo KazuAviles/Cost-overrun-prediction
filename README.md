@@ -4,6 +4,7 @@ Este es el desarrollo de un proyecto de practica personal, utilizando datos sint
 Descripción del Proyecto:
 
 Proyecto: Predicción de sobrecostos en proyectos de construcción
+
 Objetivo del proyecto:
 Predecir si un proyecto de construcción tendrá sobrecostos utilizando datos históricos de proyectos similares.
 
